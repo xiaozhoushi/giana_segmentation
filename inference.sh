@@ -1,0 +1,1 @@
+python3 inference.py --data_path /mnt/bd/aurora-mtrc-data/datas/GIANA_challenge/segmentation/test_match/hdtest/images --model_upsample_num 5 --result_save_path ./res --model_path ./checkpoint/segformer/best/model_best.pth.tar --model segformer 
